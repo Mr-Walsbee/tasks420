@@ -10,9 +10,10 @@ function App(): React.JSX.Element {
             <p>
                 Edit <code>src/App.tsx</code> and save. This page will
                 automatically reload.
+                Ben Yandell
             </p>
         </div>
     );
 }
 
-export default App;
+export default A
