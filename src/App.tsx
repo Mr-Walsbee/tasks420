@@ -15,4 +15,3 @@ function App(): React.JSX.Element {
     );
 }
 
-export default 
