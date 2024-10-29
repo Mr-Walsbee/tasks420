@@ -12,6 +12,7 @@ function App(): React.JSX.Element {
                 automatically reload.
             </p>
         </div>
-    );
+    )
 }
 
+export default App
